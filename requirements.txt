@@ -1,12 +1,10 @@
 imutils
 dlib-bin
 numpy
-opencv-python
 scipy
 requests
 pillow
 librosa==0.10.0.post2
-opencv-contrib-python
 tqdm
 numba
 imutils
