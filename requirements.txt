@@ -1,6 +1,7 @@
 imutils
 dlib-bin
 numpy
+opencv-python
 scipy
 requests
 pillow
@@ -9,9 +10,9 @@ tqdm
 numba
 imutils
 imageio_ffmpeg
+git+https://github.com/natlamir/bark.git
 insightface==0.7.3
 onnx==1.14.0
 onnxruntime==1.15.0
 onnxruntime-gpu==1.15.0
 ifnude
-git+https://github.com/natlamir/bark.git
